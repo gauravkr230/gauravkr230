@@ -2,7 +2,7 @@
 
 
  🔭 ECE student at NIT Allahabad
- 🌱 I’m a software Engineer and a web designer
+- 🌱 I’m a software Engineer and a web designer
  👯 I create full stack web sites  
  🤔 I’m looking for help with ...
  💬 Ask me about Web Development
